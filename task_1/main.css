@@ -1,0 +1,19 @@
+
+h1{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+pre code{ background-color: #c7cfdc;
+display: block;
+color: red;}
+ 
+code{color: red;
+background-color: #c7cfdc;
+}
+
+span{color: black;}
+li{ display: inline;
+background-color: cornflowerblue;
+color: blue;}

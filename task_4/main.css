@@ -1,0 +1,21 @@
+ol{
+    width: 600px;
+    margin: 50px auto 0;
+    padding:30px;
+    color: #fff;
+    background-color: #ef9cae;
+    list-style-position: inside;
+}
+
+ol li{
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #c66377;
+}
+ol li:last-child{
+    margin: 0;
+}
+ol li span{
+    padding: 10px;
+    background-color: #9e324c;
+}
